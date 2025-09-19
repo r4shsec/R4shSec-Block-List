@@ -1,0 +1,5 @@
+title: "R4shSec Block List 🚫"
+description: "A blocklist for uBlock Origin"
+baseurl: "" 
+url: "https://r4shsec.github.io/R4shSec-Block-List"
+theme: minima 
