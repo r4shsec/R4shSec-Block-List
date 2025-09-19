@@ -20,8 +20,10 @@ This blocklist protects you from:
 1. Open uBlock Origin dashboard.
 2. Go to **Filter lists → "Custom"**.
 3. Paste the URL of the blocklist:  
-`https://raw.githubusercontent.com/r4shsec/R4shSec-Block-List/refs/heads/main/blocklist.txt`
-4. Click **Apply changes**.
+```
+https://raw.githubusercontent.com/r4shsec/R4shSec-Block-List/refs/heads/main/blocklist.txt
+```
+5. Click **Apply changes**.
 
 ![Adding blocklist GIF](https://i.ibb.co/TM99L0Jy/brave-Te-F4l0-MK5-C.gif)
 
